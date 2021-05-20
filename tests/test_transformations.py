@@ -1,4 +1,4 @@
-import dummy_transformations as dt
+import make_simple_plot as dt
 
 
 def test_add_offset():

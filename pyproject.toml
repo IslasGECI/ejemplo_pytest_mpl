@@ -8,5 +8,5 @@ author-email = "ciencia.datos@islas.org.mx"
 classifiers = [ "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",]
 description-file = "README.md"
 home-page = "https://github.com/IslasGECI/dummy-transformations.py"
-module = "dummy_transformations"
+module = "make_simple_plot"
 requires-python=">=3.9"
